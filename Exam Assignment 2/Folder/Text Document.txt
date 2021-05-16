@@ -1,0 +1,8 @@
+QPushButton[text="Confirm"]
+{
+color:red;
+}
+QPushButton[text="Exit"]
+{
+color:blue;
+}
